@@ -1,4 +1,4 @@
-//////////////// FILE HEADER (INCLUDE IN EVERY FILE) //////////////////////////
+///////////////////////////////////////////////////////////////////////////////
 //
 // Title: Dancing Badgers
 // Course: CS 300 Spring 2023
@@ -6,22 +6,6 @@
 // Author: Annaliese Bero
 // Email: abero@wisc.eedu
 // Lecturer: Hobbes LeGault
-//
-//////////////////// PAIR PROGRAMMERS COMPLETE THIS SECTION ///////////////////
-//
-// Partner Name: Jackson Sprenger
-// Partner Email: jsprenger@wisc.edu
-// Partner Lecturer's Name: Hobbes LeGault
-//
-// VERIFY THE FOLLOWING BY PLACING AN X NEXT TO EACH TRUE STATEMENT:
-// __X_ Write-up states that pair programming is allowed for this assignment.
-// __X_ We have both read and understand the course Pair Programming Policy.
-// __X_ We have registered our team prior to the team registration deadline.
-//
-///////////////////////// ALWAYS CREDIT OUTSIDE HELP //////////////////////////
-//
-// Persons: (identify each by name and describe how they helped)
-// Online Sources: (identify each by URL and describe how it helped)
 //
 ///////////////////////////////////////////////////////////////////////////////
 
